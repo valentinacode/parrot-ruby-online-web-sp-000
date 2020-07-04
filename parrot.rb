@@ -8,3 +8,7 @@ def parrot
   puts best_parrot = "parrot"
   return "Squawk!"
 end
+
+def greeting(name)
+  puts "Squawk!" #{name}"
+end
